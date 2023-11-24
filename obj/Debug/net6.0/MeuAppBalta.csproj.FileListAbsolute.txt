@@ -1,0 +1,15 @@
+C:\Aplications\MeuAppBalta\bin\Debug\net6.0\MeuAppBalta.exe
+C:\Aplications\MeuAppBalta\bin\Debug\net6.0\MeuAppBalta.deps.json
+C:\Aplications\MeuAppBalta\bin\Debug\net6.0\MeuAppBalta.runtimeconfig.json
+C:\Aplications\MeuAppBalta\bin\Debug\net6.0\MeuAppBalta.dll
+C:\Aplications\MeuAppBalta\bin\Debug\net6.0\MeuAppBalta.pdb
+C:\Aplications\MeuAppBalta\obj\Debug\net6.0\MeuAppBalta.csproj.AssemblyReference.cache
+C:\Aplications\MeuAppBalta\obj\Debug\net6.0\MeuAppBalta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aplications\MeuAppBalta\obj\Debug\net6.0\MeuAppBalta.AssemblyInfoInputs.cache
+C:\Aplications\MeuAppBalta\obj\Debug\net6.0\MeuAppBalta.AssemblyInfo.cs
+C:\Aplications\MeuAppBalta\obj\Debug\net6.0\MeuAppBalta.csproj.CoreCompileInputs.cache
+C:\Aplications\MeuAppBalta\obj\Debug\net6.0\MeuAppBalta.dll
+C:\Aplications\MeuAppBalta\obj\Debug\net6.0\refint\MeuAppBalta.dll
+C:\Aplications\MeuAppBalta\obj\Debug\net6.0\MeuAppBalta.pdb
+C:\Aplications\MeuAppBalta\obj\Debug\net6.0\MeuAppBalta.genruntimeconfig.cache
+C:\Aplications\MeuAppBalta\obj\Debug\net6.0\ref\MeuAppBalta.dll
