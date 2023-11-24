@@ -10,16 +10,37 @@ namespace MeuApp // Divisões lógicas
             Console.WriteLine(nome);
 
             MeuMetodo();
-        }
 
+            Product camisaDoVasco = new Product(1, "Camisa Vasco Oficial II 2023 Kappa", 299.99);
+            Console.WriteLine(camisaDoVasco.Id);
+            Console.WriteLine(camisaDoVasco.Name);
+            Console.WriteLine(camisaDoVasco.Price);
+        }
         static void MeuMetodo()
         {
             Console.WriteLine("Calma Largatixo!");
         }
-
         static string RetornaNome(string nome, string sobrenome, int idade)
         {
             return nome + " " + sobrenome + " tem " + idade.ToString() + " " + "anos";
+        }
+    }
+
+    struct Product
+    {
+        public Product(int id, string name, double price)
+        {
+            Id = id;
+            Name = name;
+            Price = price;
+        }
+
+        public int Id;
+        public string Name;
+        public double Price;
+        public double PriceInDollar(double dolar)
+        {
+            return Price * dolar;
         }
     }
 }
